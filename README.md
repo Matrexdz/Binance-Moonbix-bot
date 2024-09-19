@@ -1,2 +1,2 @@
-# Binance-Moonbix-bot
-Binance Moonbix bot 
+# moonbix-bot
+we are lazy
