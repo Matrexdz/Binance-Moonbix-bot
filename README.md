@@ -1,2 +1,2 @@
-# moonbix-bot
-we are lazy
+# Binance Moonbix bot
+Binance Moonbix bot Auto clicker
